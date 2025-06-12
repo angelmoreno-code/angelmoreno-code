@@ -4,6 +4,6 @@
 
 ✨ ¿Qué es esto?
 
-Este proyecto es una prueba con GitHub para las prácticas realizadas en CodeArts
+Este proyecto es una prueba con GitHub para las prácticas realizadas en CodeArts.
 
 La utilizaremos para organizar tareas y gestionar las versiones intentando no complicarnos mucho la vida.
